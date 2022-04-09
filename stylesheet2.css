@@ -1,0 +1,15 @@
+@media (max-width: 670px) {
+
+
+  body {
+    
+    margin-top: 10px;
+    font-family: Verdana,sans-serif;
+    background-color: rgb(121, 153, 196);
+  }
+  
+  
+.pic {
+  text-align: center;
+ }
+}
